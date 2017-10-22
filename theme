@@ -1,0 +1,45 @@
+{
+    "room": "DestinyGaming",
+    "author": "Kirama",
+    "icon": "https://i.imgur.com/IgoeWy0.png",
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FAEBD7",
+        "cohost": "#FAEBD7",
+        "manager": "#FAEBD7",
+        "bouncer": "#FAEBD7",
+        "rdj": "#C0C0C0",
+        "subscriber": "#708090",
+        "silversubscriber": "#696969",
+        "friend": null,
+        "user": "#86cdf0"
+    },
+    "images": {
+        "background": "https://i.imgur.com/OIXBgIT.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/cCi09VN.png",
+        "cohost": "http://i.imgur.com/cCi09VN.png",
+        "manager": "http://i.imgur.com/BtScqan.png",
+        "bouncer": "http://i.imgur.com/DU4HqyI.png",
+        "rdj": "http://i.imgur.com/rgWUzD2.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
